@@ -42,7 +42,7 @@ export const socialLinks = [
   },
   {
     label: "Instagram",
-    href: "https://www.instagram.com/",
+    href: "https://www.instagram.com/suppliers__builders",
     icon: Instagram
   },
   {
